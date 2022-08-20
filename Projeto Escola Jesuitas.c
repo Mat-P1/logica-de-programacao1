@@ -20,7 +20,7 @@ int main(void) {
 	setlocale(LC_ALL, "Portuguese");
 	
 	int op, a, b=0, c=0;
-	float nota[50000][4], soma=0;
+	float nota[1000][4], soma=0;
 	
 	printf("Escola Jesuítas\n");
 	printf("Calculo de Médias\n");
