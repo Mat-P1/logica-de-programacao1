@@ -1,4 +1,4 @@
-// Você deverá realizar o upload do código-fonte da locadora de veículos, com as implementações de função.
+// Você deverá realizar o upload do código-fonte da locadora de veículos, com as implementações de funções
 
 #include <stdio.h>
 #include <stdlib.h>
