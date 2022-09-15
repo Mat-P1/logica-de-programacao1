@@ -1,3 +1,15 @@
-# Logica-de-Programacao-C-
+# Lógica de Programação
 
-Aprendendo sobre estruturas de repetição (FOR/WHILE) e outros recursos das linguagens de programação como SWTICH, MATRIZES e VETORES através de diversas atividades com complexidades e exigências diferentes.
+## Tecnologias
+
+- C
+- VScode
+
+## O que aprendi
+
+Vários recursos da linguagem C foram abordados através de diversas atividades com complexidades e exigências diferentes.
+
+- Variáveis
+- Estruturas condicionais (SWTICH/IF/ELSE)
+- Estruturas de repetição (FOR/WHILE) 
+- Estruturas de dados (VETORES/MATRIZES)
