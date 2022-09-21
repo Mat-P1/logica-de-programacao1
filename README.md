@@ -13,3 +13,4 @@ Vários recursos da linguagem C que foram abordados através de diversas ativida
 - Estruturas condicionais (SWTICH/IF/ELSE)
 - Estruturas de repetição (FOR/WHILE) 
 - Estruturas de dados (VETORES/MATRIZES)
+- Funções
