@@ -3,7 +3,7 @@
 ## Tecnologias
 
 - C
-- VScode
+- Java
 
 ## O que aprendi
 
