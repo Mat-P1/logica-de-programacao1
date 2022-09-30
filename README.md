@@ -3,11 +3,10 @@
 ## Tecnologias
 
 - C
-- Java
 
 ## O que aprendi
 
-Vários recursos das linguagens C e Java abordados através de diversas atividades com complexidades e exigências diferentes.
+Vários recursos da linguagenm C abordados através de diversas atividades com complexidades e exigências diferentes.
 
 - Variáveis
 - Estruturas condicionais (SWTICH/IF/ELSE)
